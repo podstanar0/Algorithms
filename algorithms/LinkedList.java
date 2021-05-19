@@ -37,7 +37,6 @@ public class LinkedList
     // adds a Node to LinkedList
     public void add(char item)
     {
-
         Node newTail = new Node(tail, item, null);
         tail.next = newtail;
         tail = newTail;

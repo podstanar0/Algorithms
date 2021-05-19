@@ -19,7 +19,7 @@ public class MyQueue
 
     public void add(int item)
     {
-        // push onto stackNew, which always has the newest element on top
+        // push onto stackNew, which always holds the newest element on top
         stackNew.push(item);
     }
 
