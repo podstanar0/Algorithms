@@ -2,6 +2,7 @@ package algorithms;
 
 // Problem: use one array to implement three stacks
 
+import java.util.Stack;
 import java.util.EmptyStackException;
 
 
